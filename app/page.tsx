@@ -213,15 +213,3 @@ export default async function HomePage() {
     </>
   );
 }
-import Image from "next/image";
-
-export default function Page() {
-  return (
-    <Image
-      src="/banner.jpg"
-      alt="Banner"
-      width={500}
-      height={300}
-    />
-  );
-}
