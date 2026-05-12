@@ -20,7 +20,7 @@ A production-ready **Next.js 14** platform for selling in-game credits — with 
 
 ## 🎯 What is this?
 
-**RITHTOPUP** lets customers buy Diamonds / UC / Genesis Crystals / game passes using a single KHQR code scannable by **every major Cambodian bank app** — ABA Pay, ACLEDA Pay, Wing, TrueMoney, Chip Mong, Prince Bank, and more.
+**DYTOPUP** lets customers buy Diamonds / UC / Genesis Crystals / game passes using a single KHQR code scannable by **every major Cambodian bank app** — ABA Pay, ACLEDA Pay, Wing, TrueMoney, Chip Mong, Prince Bank, and more.
 
 | Customer side | Admin side |
 |---|---|
